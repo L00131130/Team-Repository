@@ -1,5 +1,7 @@
 
-Merge local repo edit continued Conflict remote repo edit Demo
+
+Merge local repo edit continued Conflict remote repo edit continued Demo
+
 
 
 
